@@ -1,5 +1,8 @@
 ## Hi there 👋
-I'm a frontend developer passionate about building responsive web applications 
+I'm Martha, 
+A frontend Developer passionate about building responsive and user-friendly web applications.
+
+Currently expanding into Backend Development and Blockchain, with a strong interest in Web3 technologies and digital innovation.
 <!--
 **fidelis-martha/fidelis-martha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
